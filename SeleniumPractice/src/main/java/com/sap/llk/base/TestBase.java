@@ -45,6 +45,7 @@ import com.sap.llk.util.WebEventListener;
 
 public class TestBase {
 
+	// Email code
 	public static int cntPass = 0;
 	public static int cntFail = 0;
 	public static int cntSkip = 0;
