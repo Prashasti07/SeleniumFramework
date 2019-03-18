@@ -53,11 +53,9 @@ public class TestBase {
 
 	public static Properties prop;
 	public SoftAssert softassert = new SoftAssert();
-
 	public static ExtentReports extent;
 	public static ExtentTest test;
 	public static String reportName;
-
 	public static WebDriver driver;
 	public static EventFiringWebDriver e_driver;
 	public static WebEventListener eventListener;
